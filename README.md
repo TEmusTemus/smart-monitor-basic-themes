@@ -1,6 +1,9 @@
 # Smart Monitor Basic Themes
 
-Fallout/Pip-Boy landscape theme for a Turing 3.5-inch Smart Monitor Basic display.
+Fallout/Pip-Boy landscape theme for a MeccatxTuring 3.5-inch for Smart Monitor Basic display.
+
+<img width="377" height="271" alt="image" src="https://github.com/user-attachments/assets/c47f056c-9173-41d7-9f36-5dd82122608f" />
+
 
 ## Fallout Landscape
 
